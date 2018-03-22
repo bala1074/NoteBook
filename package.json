@@ -1,0 +1,22 @@
+{
+  "name": "notebook",
+  "version": "1.0.0",
+  "description": "Storing notes in a book, User can create multiple books",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bala1074/NoteBook.git"
+  },
+  "author": "BALASATISH KUMAR INJARAPU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bala1074/NoteBook/issues"
+  },
+  "homepage": "https://github.com/bala1074/NoteBook#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
